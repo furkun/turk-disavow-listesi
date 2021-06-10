@@ -1,5 +1,9 @@
 # Türk Disavow Listesi
 WordPress virüs temizleme ve güvenlik hizmeti sağlıyorum. Müşterilerimin web sitelerine eklenmiş hacklinklerden, bir domain disavow listesi oluşturmaya karar verdim. Umarım faydalı olur. 
+
+Son güncelleme: 10/06/2021
+
+Toplam domain: 32
 ## Bağlantılar
 [.txt Formatında Disavow Listesi](https://raw.githubusercontent.com/furkun/turk-disavow-listesi/main/turk-disavow-listesi.txt)
 
